@@ -7,7 +7,7 @@ The project provides the same functionality as original FUTÁR. You can check th
 
 ![Photo](https://raw.githubusercontent.com/ivanszkypeter/futar-home-nodemcu/master/images/FUTAR-Photo.jpg)
 
-This repository contain the display part.
+This repository contain the display part. To navigate to the server side part [click here](https://github.com/ivanszkypeter/futar-home-server).
 
 # Hardware
 
