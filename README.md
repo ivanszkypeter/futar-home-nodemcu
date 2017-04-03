@@ -11,10 +11,10 @@ This repository contain the display part.
 
 # Hardware
 
-![Breadboard](https://raw.githubusercontent.com/ivanszkypeter/futar-home-nodemcu/master/images/FUTAR-BreadboardView.png)
-
 Required components for this project:
 * NodeMCU (With built in wifi)
 * 20x4 LCD display module
 * I2C Serial Interface board
 * 4 AA battery holder
+
+![Breadboard view](https://raw.githubusercontent.com/ivanszkypeter/futar-home-nodemcu/master/images/FUTAR-BreadboardView.png)
